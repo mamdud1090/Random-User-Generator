@@ -1,0 +1,19 @@
+.male{
+	border: 2px solid blue;
+	
+}
+
+.female{
+	border: 2px solid pink;
+}
+
+#app{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	font-size: 10px;
+}
+
+img{
+	border-radius: 50%;
+}
